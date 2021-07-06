@@ -13,7 +13,7 @@ The main goal of this project was to implement 3D animation using [OpenGL](https
 - &#8593;: moving forward
 - &#8595;: moving backward
 - Page up / P, Page down / L, &#8592;, &#8594;: looking around
-- O: opening the clock door
+- O: opening and closing the clock door
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ When it comes to Windows, to run this program [Visual Studio](https://visualstud
    ```sh
    git clone https://github.com/filipciesielski7/Mechanical_Clock.git
    ```
-2. Navigate into the Wi directory
+2. Navigate into the *Linux* directory
     ```
     cd Mechanical_Clock/Linux
     ```
@@ -45,4 +45,4 @@ When it comes to Windows, to run this program [Visual Studio](https://visualstud
     
 ### Windows
 
-The easiest way to run this animation on Windows system is to open **pl_szkielet_03_win.sln** file located in Windows directory using *Visual Studio* and then run the **Local Windows Debugger** with **x86** option. 
+The easiest way to run this animation on Windows system is to open **pl_szkielet_03_win.sln** file located in Windows directory using *Visual Studio* and then run the **Local Windows Debugger** with **x86** option.
