@@ -1,5 +1,7 @@
 # Mechanical Clock 🕰
 
+Also available in: [Polski](README.pl.md)
+
 Mechanical clock 3D animation final project for the computer graphics &amp; visualization course at Poznan University of Technology
 
 ![animated gif of the clock](./preview.gif)
