@@ -17,7 +17,7 @@ The main goal of this project was to implement 3D animation using [OpenGL](https
 
 This project works on both systems Linux and Windows.
 
-#### Prerequisites
+### Prerequisites
 To run this program on Linux, these libraries must be installed on your system:
 - GLFW
 - GLEW
@@ -26,7 +26,7 @@ To run this program on Linux, these libraries must be installed on your system:
 
 When it comes to Windows, to run this program [Visual Studio](https://visualstudio.microsoft.com/pl/) is needed.
 
-#### Linux
+### Linux
 
 1. Clone the repo
    ```sh
