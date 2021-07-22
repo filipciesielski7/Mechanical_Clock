@@ -4,7 +4,7 @@
 
 _Dostępne również w wersji po: [English](README.md)_
 
-## About
+## O projekcie
 
 Animacja 3D zegara mechanicznego - projekt końcowy z przedmiotu Grafika komputerowa &amp; Wizualizacja na Politechnice Poznańskiej.
 
