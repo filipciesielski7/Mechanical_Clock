@@ -1,6 +1,10 @@
-# Mechanical Clock 🕰
+<h1 align="center">
+    Mechanical Clock 🕰
+</h1>
 
-Also available in: [Polski](README.pl.md)
+_Also available in: [Polski](README.pl.md)_
+
+## About
 
 Mechanical clock 3D animation final project for the computer graphics &amp; visualization course at Poznan University of Technology
 
@@ -20,7 +24,9 @@ The main goal of this project was to implement 3D animation using [OpenGL](https
 This project works on both systems Linux and Windows.
 
 ### Prerequisites
+
 To run this program on Linux, these libraries must be installed on your system:
+
 - GLFW
 - GLEW
 - GLM
@@ -34,15 +40,15 @@ When it comes to Windows, to run this program [Visual Studio](https://visualstud
    ```sh
    git clone https://github.com/filipciesielski7/Mechanical_Clock.git
    ```
-2. Navigate into the *Linux* directory
-    ```
-    cd Mechanical_Clock/Linux
-    ```
+2. Navigate into the _Linux_ directory
+   ```
+   cd Mechanical_Clock/Linux
+   ```
 3. Run this command in the Linux folder:
-    ```
-    make run
-    ```
-    
+   ```
+   make run
+   ```
+
 ### Windows
 
-The easiest way to run this animation on Windows system is to open **pl_szkielet_03_win.sln** file located in Windows directory using *Visual Studio* and then run the **Local Windows Debugger** with **x86** option.
+The easiest way to run this animation on Windows system is to open **pl_szkielet_03_win.sln** file located in Windows directory using _Visual Studio_ and then run the **Local Windows Debugger** with **x86** option.

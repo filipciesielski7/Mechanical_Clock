@@ -1,6 +1,10 @@
-# Zegar Mechaniczny 🕰
+<h1 align="center">
+    Zegar Mechaniczny 🕰
+</h1>
 
-Dostępne również w wersji po: [English](README.md)
+_Dostępne również w wersji po: [English](README.md)_
+
+## About
 
 Animacja 3D zegara mechanicznego - projekt końcowy z przedmiotu Grafika komputerowa &amp; Wizualizacja na Politechnice Poznańskiej.
 
@@ -20,7 +24,9 @@ Celem projektu było zaimplementowanie animacji 3D przy użyciu [OpenGL](https:/
 Projekt ten można uruchomić zarówno na Linuxie, jak i Windowsie.
 
 ### Wymogi
+
 W celu uruchomienia programu na systemie Linux, zainstalowane na nim muszą być następujące biblioteki:
+
 - GLFW
 - GLEW
 - GLM
@@ -34,15 +40,15 @@ Jeśli chodzi o system Windows, w celu uruchomienia programu potrzebny będzie [
    ```sh
    git clone https://github.com/filipciesielski7/Mechanical_Clock.git
    ```
-2. Przejście do folderu *Linux*
-    ```
-    cd Mechanical_Clock/Linux
-    ```
+2. Przejście do folderu _Linux_
+   ```
+   cd Mechanical_Clock/Linux
+   ```
 3. Uruchomienie poniższej komendy w tym folderze:
-    ```
-    make run
-    ```
-    
+   ```
+   make run
+   ```
+
 ### Windows
 
-W celu uruchomienia programu na Windowsie, najłatwiej jest otworzyć plik z folderu Windows o nazwie **pl_szkielet_03_win.sln** przy pomocy *Visual Studio*, a nastęnie wcisnąć przycisk **Lokalny debugger Windows** wcześniej wybierając przy nim opcje **x86**.
+W celu uruchomienia programu na Windowsie, najłatwiej jest otworzyć plik z folderu Windows o nazwie **pl_szkielet_03_win.sln** przy pomocy _Visual Studio_, a nastęnie wcisnąć przycisk **Lokalny debugger Windows** wcześniej wybierając przy nim opcje **x86**.
